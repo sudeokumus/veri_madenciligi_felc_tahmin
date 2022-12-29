@@ -10,9 +10,7 @@ Proje çalışması kapsamında “Diabetes, Hypertension and Stroke Prediction�
 
 **Behavioral Risk Factor Surveillance System - Davranışsal Risk Faktörü Sürveyans Sistemi*
 
-
-
-Veri setinde 15 adet kategorik, 3 adet sayısal olmak üzere toplamda 18 adet değişkenden bulunmaktadır.
+* Veri setinde 15 adet kategorik, 3 adet sayısal olmak üzere toplamda 18 adet değişken bulunmaktadır.
 
 ## Hedef 🎯
 
