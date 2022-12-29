@@ -17,7 +17,7 @@ Veri setinde 15 adet kategorik, 3 adet sayısal değişken bulunmaktadır.
 
 Amaç; klinik parametreleri kullanarak insanların felç olup olmama durumlarını ve felcin diğer parametrelerle arasındaki ilişkiyi incelemektir.
 
-Bir kişinin tıbbi özelliklerine göre felç olup olmadığını tahmin edebilen bir makine öğrenimi modeli oluşturmak için çeşitli makine öğrenimi algoritmaları ve veri bilimi kütüphanelerini kullanılmıştır.
+Bir kişinin tıbbi özelliklerine göre felç olup olmadığını tahmin edebilen bir makine öğrenimi modeli oluşturmak için çeşitli makine öğrenimi algoritmaları ve veri bilimi kütüphaneleri kullanılmıştır.
 
 ## Kullanılan Kütüphaneler 📚
 
