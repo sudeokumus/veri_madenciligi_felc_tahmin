@@ -1,6 +1,6 @@
 # 🩺 Stroke Prediction - Felç Tahmini 🔬
 
-![title](gorseller/strokeprediction.png)
+![alt text](https://miro.medium.com/max/1200/1*XklfbFzk7iMFEhLTk6QTpg.png)
 
 ## Veri Seti Hakkında 📖
 
