@@ -36,5 +36,4 @@ Bir kişinin tıbbi özelliklerine göre felç olup olmadığını tahmin edebil
 * f1 score'lara baktığımızda "felç olma" durumunu yakalamada Lojistik Regresyon en başarılıyken SVM ve KNN algoritmaları onu takip etti. Karar Ağacı algoritması "felç olmama" durumunu iyi tahmin etti. (f1 score = 0.83)
 
 
-
 **Daha fazla detaya erişmek için: [islemler.ipynb](islemler.ipynb) 🪄**
